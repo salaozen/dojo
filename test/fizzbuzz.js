@@ -1,4 +1,4 @@
-const defineFizzbuzz = require('../fizzfuzz'),
+const defineFizzbuzz = require('../fizzbuzz'),
       chai = require('chai');
 
 describe('fizzbuzz', function() {
